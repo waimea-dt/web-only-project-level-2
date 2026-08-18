@@ -38,7 +38,7 @@ jobs:
       # otherwise GitHub Pages just serves the raw, unrendered files
       - name: Build Docs with Jekyll
         run: |
-          gem install jekyll
+          gem install jekyll jekyll-optional-front-matter jekyll-relative-links
           jekyll build --source docs --destination dist/docs --baseurl "/${{ github.event.repository.name }}/docs"
 
       # This step creates a clean staging folder and merges your two directories

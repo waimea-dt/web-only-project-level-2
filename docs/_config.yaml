@@ -5,3 +5,16 @@ author: Digital Technologies Dept.
 # If development is true, guides will be shown
 development: true
 picotheme: azure
+
+# Applies the default layout to every page, since pages have no front matter of their own
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# jekyll-optional-front-matter lets pages build without needing front matter (as GitHub's built-in Pages build does)
+# jekyll-relative-links rewrites in-page links to .md files to their built .html equivalent
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
