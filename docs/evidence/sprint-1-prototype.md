@@ -1,20 +1,14 @@
-# Sprint 1 - Developing a DB and UI Prototype
+# Sprint 1 - Developing a UI Prototype
 
 
 ## Sprint Goals
 
-Develop a design for the database and a UI prototype that simulates the key functionality of the system. Test and refine the UI so that it can serve as the model for the next phase of development in Sprint 2.
+Develop a design for the UI that simulates the key functionality of the system. Test and refine the UI so that it can serve as the model for the next phase of development in Sprint 2.
 
 ### Specific Goals
 
 **Edit these goals as needed**
 
-- Design the database:
-    - Tables
-    - Fields / types
-    - Primary keys
-    - Default / nullable values
-    - Relationships (foreign keys)
 - Design the UI
     - Key pages
     - User interactions and 'flow'
@@ -23,33 +17,17 @@ Develop a design for the database and a UI prototype that simulates the key func
     - Etc.
 
 
-## Initial Database Design
-
-Replace this text with notes regarding the DB design.
-
-![DB Design](screenshots/placeholder.png)
-
-
-### Required Data Input
-
-Replace this text with a description of what data will be input, and where / how it will be obtained.
-
-### Required Data Output
-
-Replace this text with a description of the outputs for the system - what types of data will be displayed?
-
-### Required Data Processing
-
-Replace this text with a description of how the data will be processed to achieve the desired output(s) - any processes / formulae?
-
-
 ## UI 'Flow'
 
 The first stage of prototyping was to explore how the UI might 'flow' between states, based on the required functionality.
 
-This Figma demo shows the initial design for the UI 'flow':
+This demo shows the initial design for the UI 'flow':
 
-**FIGMA FLOW - PLACE THE FIGMA EMBED CODE HERE - MAKE SURE IT IS SET SO THAT EVERYONE CAN ACCESS IT**
+**UI FLOW - ADD A SCREENSHOT AND A LINK TO THE LIVE PREVIEW BELOW**
+
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
+
+[Click here to access the live UI prototype](LINK_URL_HERE)
 
 ### Testing
 
@@ -59,7 +37,11 @@ Replace this text with notes about what you did to test the UI flow and the outc
 
 Replace this text with notes any improvements you made as a result of the testing.
 
-*IMPROVED FIGMA FLOW - PLACE THE FIGMA EMBED CODE HERE - MAKE SURE IT IS SET SO THAT EVERYONE CAN ACCESS IT*
+*IMPROVED UI FLOW - ADD A SCREENSHOT AND A LINK TO THE LIVE PREVIEW BELOW*
+
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
+
+[Click here to access the live UI prototype](LINK_URL_HERE)
 
 
 ## Initial UI Prototype
@@ -68,7 +50,11 @@ The next stage of prototyping was to develop the layout for each screen of the U
 
 This Figma demo shows the initial layout design for the UI:
 
-*FIGMA PROTOTYPE - PLACE THE FIGMA EMBED CODE HERE - MAKE SURE IT IS SET SO THAT EVERYONE CAN ACCESS IT*
+*UI PROTOTYPE - ADD A SCREENSHOT AND A LINK TO THE LIVE PREVIEW BELOW*
+
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
+
+[Click here to access the live UI prototype](LINK_URL_HERE)
 
 ### Testing
 
@@ -78,7 +64,11 @@ Replace this text with notes about what you did to test the UI flow and the outc
 
 Replace this text with notes any improvements you made as a result of the testing.
 
-*FIGMA IMPROVED PROTOTYPE - PLACE THE FIGMA EMBED CODE HERE - MAKE SURE IT IS SET SO THAT EVERYONE CAN ACCESS IT*
+*IMPROVED PROTOTYPE - ADD A SCREENSHOT AND A LINK TO THE LIVE PREVIEW BELOW*
+
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
+
+[Click here to access the live UI prototype](LINK_URL_HERE)
 
 
 ## Refined UI Prototype
@@ -87,7 +77,11 @@ Having established the layout of the UI screens, the prototype was refined visua
 
 This Figma demo shows the UI with refinements applied:
 
-*FIGMA REFINED PROTOTYPE - PLACE THE FIGMA EMBED CODE HERE - MAKE SURE IT IS SET SO THAT EVERYONE CAN ACCESS IT*
+*REFINED PROTOTYPE - ADD A SCREENSHOT AND A LINK TO THE LIVE PREVIEW BELOW*
+
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
+
+[Click here to access the live UI prototype](LINK_URL_HERE)
 
 ### Testing
 
@@ -97,7 +91,11 @@ Replace this text with notes about what you did to test the UI flow and the outc
 
 Replace this text with notes any improvements you made as a result of the testing.
 
-*FIGMA IMPROVED REFINED PROTOTYPE - PLACE THE FIGMA EMBED CODE HERE - MAKE SURE IT IS SET SO THAT EVERYONE CAN ACCESS IT*
+*IMPROVED REFINED PROTOTYPE - ADD A SCREENSHOT AND A LINK TO THE LIVE PREVIEW BELOW*
+
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
+
+[Click here to access the live UI prototype](LINK_URL_HERE)
 
 
 ## Sprint Review

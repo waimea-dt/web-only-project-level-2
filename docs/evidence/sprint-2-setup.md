@@ -1,23 +1,21 @@
-# Sprint 2 - Implement Database and Display of Test Data
+# Sprint 2 - Page Creation
 
 
 ## Sprint Goals
 
-Implement the database, populated with test data. Create queries that retrieve test data, and display this on web pages as needed. Test and refine the queries and data display, so that it stands as the basis of the next sprint.
+Implement the web site pages, populated with test data. Test and refine the pages, so they stand as the basis of the next sprint.
 
 ### Specific Goals
 
 **Edit these goals as needed**
 
-- Implement the database
-- Add test data to the database
 - Create the following web pages:
     - Home pages showing...
     - Details page for ...
     - Etc.
-- Develop SQL database queries to:
-    - Retrieve all ...
-    - Retrieve specific ...
+- Add test data and images:
+    - Welcome message ...
+    - Business photo ...
     - Etc.
 
 
@@ -27,13 +25,15 @@ Replace this text with notes about what you are testing, how you tested it, and 
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE TESTING HERE**
 
-![Placeholder](screenshots/placeholder.png)
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
 
 ### Changes / Improvements
 
 Replace this text with notes any improvements you made as a result of the testing.
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE IMPROVED SYSTEM HERE**
+
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
 
 
 ## Testing FEATURE NAME HERE
@@ -42,11 +42,15 @@ Replace this text with notes about what you are testing, how you tested it, and 
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE TESTING HERE**
 
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
+
 ### Changes / Improvements
 
 Replace this text with notes any improvements you made as a result of the testing.
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE IMPROVED SYSTEM HERE**
+
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
 
 
 ## Testing FEATURE NAME HERE
@@ -55,11 +59,15 @@ Replace this text with notes about what you are testing, how you tested it, and 
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE TESTING HERE**
 
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
+
 ### Changes / Improvements
 
 Replace this text with notes any improvements you made as a result of the testing.
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE IMPROVED SYSTEM HERE**
+
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
 
 
 ## ETC...

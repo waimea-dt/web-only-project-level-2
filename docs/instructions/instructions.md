@@ -2,7 +2,7 @@
 
 ## Introduction
 
-You are required to design and create a web application that satisfies a particular need or problem for a person or group of people. The need / problem should be a genuine and authentic one.
+You are required to design and create a web site that satisfies a particular need or problem for a person or group of people. The need / problem should be a genuine and authentic one.
 
 You will be assessed on how skilfully and effectively you design, create, and test your system over the course of a number of 'sprints'
 
@@ -11,31 +11,30 @@ You will be assessed on how skilfully and effectively you design, create, and te
 
 | Standard               | Title                                                     | Version | Level | Credits |
 | ---------------------- | --------------------------------------------------------- | ------- | ----- | ------- |
-| [AS91892](as91892.pdf) | Use advanced techniques to develop a **database**              | 1       | 2     | 4       |
 | [AS91893](as91893.pdf) | Use advanced techniques to develop a **digital media outcome** (website) | 1       | 2     | 4       |
 
 Achievement Criteria:
 
 
-| Level          | AS91892 Achievement Criteria                               | AS91893 Achievement Criteria                                            |
-| -------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------- |
-| **Achieve**    | Use advanced techniques to develop a database               | Use advanced techniques to develop a digital media outcome               |
-| **Merit**      | Use advanced techniques to develop an **informed** database | Use advanced techniques to develop an **informed** digital media outcome |
-| **Excellence** | Use advanced techniques to develop an **refined** database  | Use advanced techniques to develop an **refined** digital media outcome  |
+| Level          | AS91893 Achievement Criteria                                             |
+| -------------- | ------------------------------------------------------------------------ |
+| **Achieve**    | Use advanced techniques to develop a digital media outcome               |
+| **Merit**      | Use advanced techniques to develop an **informed** digital media outcome |
+| **Excellence** | Use advanced techniques to develop an **refined** digital media outcome  |
 
 
 ## Timeline
 
-You will have **11 weeks** to complete this project, broken up into a number of phases:
+You will have **8 weeks** to complete this project, broken up into a number of phases:
 
-| Weeks | Week # | Phase                                                |
-| ----- | ------ | ---------------------------------------------------- |
-| 1     | 1      | **Sprint 0**: Project idea development and research  |
-| 3     | 2-3    | **Sprint 1**: DB design and UI prototype             |
-| 2     | 4-5    | **Sprint 2**: DB implemented and test data displayed |
-| 4     | 6-8    | **Sprint 3**: Working MVP (minimum viable product)   |
-| 4     | 9-10   | **Sprint 4**: Final System refinement and completion |
-| 1     | 11     | **Review**: Project final review                     |
+| Weeks | Week # | Phase                                                   |
+| ----- | ------ | ------------------------------------------------------- |
+| 1     | 1      | **Sprint 0**: Project idea development and research     |
+| 3     | 2-3    | **Sprint 1**: UI prototype                              |
+| 2     | 4      | **Sprint 2**: Pages implemented and test data displayed |
+| 4     | 5-6    | **Sprint 3**: Working MVP (minimum viable product)      |
+| 4     | 7      | **Sprint 4**: Final System refinement and completion    |
+| 1     | 8      | **Review**: Project final review                        |
 
 Key Terms:
 
@@ -52,7 +51,7 @@ This is an 'open book' task. You may look at previous projects that you have wor
 
 ### Starter Template
 
-A starter project with a minimal Flask application are provided for you. The template has very basic functionality upon which you can build your system.
+A starter project with a minimal web site setup are provided for you. The template has very basic functionality upon which you can build your system.
 
 ### Plagiarism and the Use of AI / LLMs
 

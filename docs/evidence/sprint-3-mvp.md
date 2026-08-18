@@ -3,17 +3,14 @@
 
 ## Sprint Goals
 
-Continue to develop the web application to the point that it provides all key functionality of the system. Test and refine it so that it can serve as the basis for the final phase of development.
+Continue to develop the web site to the point that it provides all key functionality of the system. Test and refine it so that it can serve as the basis for the final phase of development.
 
 ### Specific Goals
 
 **Edit these goals as needed**
 
-- Create the following web pages:
-    - Form for ...
-    - Etc.
-- Develop SQL database queries to:
-    - Add a new ...
+- Style and refine the following web pages:
+    - Home page ...
     - Etc.
 
 
@@ -23,13 +20,15 @@ Replace this text with notes about what you are testing, how you tested it, and 
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE TESTING HERE**
 
-![Placeholder](screenshots/placeholder.png)
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
 
 ### Changes / Improvements
 
 Replace this text with notes any improvements you made as a result of the testing.
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE IMPROVED SYSTEM HERE**
+
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
 
 
 ## Testing FEATURE NAME HERE
@@ -38,11 +37,15 @@ Replace this text with notes about what you are testing, how you tested it, and 
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE TESTING HERE**
 
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
+
 ### Changes / Improvements
 
 Replace this text with notes any improvements you made as a result of the testing.
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE IMPROVED SYSTEM HERE**
+
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
 
 
 ## Testing FEATURE NAME HERE
@@ -51,11 +54,15 @@ Replace this text with notes about what you are testing, how you tested it, and 
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE TESTING HERE**
 
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
+
 ### Changes / Improvements
 
 Replace this text with notes any improvements you made as a result of the testing.
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE IMPROVED SYSTEM HERE**
+
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
 
 
 ## ETC...

@@ -20,13 +20,15 @@ Replace this text with notes about what you are testing, how you tested it, and 
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE TESTING HERE**
 
-![Placeholder](screenshots/placeholder.png)
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
 
 ### Changes / Improvements
 
 Replace this text with notes any improvements you made as a result of the testing.
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE IMPROVED SYSTEM HERE**
+
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
 
 
 ## Testing FEATURE NAME HERE
@@ -35,11 +37,15 @@ Replace this text with notes about what you are testing, how you tested it, and 
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE TESTING HERE**
 
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
+
 ### Changes / Improvements
 
 Replace this text with notes any improvements you made as a result of the testing.
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE IMPROVED SYSTEM HERE**
+
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
 
 
 ## Testing FEATURE NAME HERE
@@ -48,11 +54,15 @@ Replace this text with notes about what you are testing, how you tested it, and 
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE TESTING HERE**
 
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
+
 ### Changes / Improvements
 
 Replace this text with notes any improvements you made as a result of the testing.
 
 **PLACE SCREENSHOTS AND/OR ANIMATED GIFS OF THE IMPROVED SYSTEM HERE**
+
+![SCREENSHOT DESCRIPTION HERE](screenshots/placeholder.png)
 
 
 ## ETC...
